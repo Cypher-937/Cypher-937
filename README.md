@@ -23,6 +23,9 @@ Reach me at Social Medias: <h3 align="left">Connect with me:</h3>
 <img src="https://camo.githubusercontent.com/f36a579a7440dd2cd03da4903249f86d0d44cb7020fd902512bccd139784b363/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465" alt=".Net" data-canonical-src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/84fa7f6c26f4067f74daaf973dfd43b2547111617349ce2256ed3c42df2b7722/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465" alt="MicrosoftSQLServer" data-canonical-src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" style="max-width: 100%;">
+<br>
+
+
 
 📈My GitHub stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-937)](https://github.com/anuraghazra/github-readme-stats)
