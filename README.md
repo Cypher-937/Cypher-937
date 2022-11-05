@@ -8,6 +8,7 @@ Reach me at Social Medias: <h3 align="left">Connect with me:</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
 <p align="left"> Front-End <br>
            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
@@ -17,7 +18,6 @@ Reach me at Social Medias: <h3 align="left">Connect with me:</h3>
            <p> Back-end <br>
            <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
-           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            </a> 
 </p>
 
