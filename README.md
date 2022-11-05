@@ -16,5 +16,5 @@ Reach me at Social Medias: <h3 align="left">Connect with me:</h3>
 </p>
 
 
-<a align="center" [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)></a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-937)](https://github.com/anuraghazra/github-readme-stats)></a>
 
