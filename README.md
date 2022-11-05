@@ -8,12 +8,13 @@ Reach me at Social Medias: <h3 align="left">Connect with me:</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> Front-End
+<p align="left"> Front-End <br>
            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
-           Back-end
+           </p>
+           <p> Back-end <br>
            <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
            </a> 
