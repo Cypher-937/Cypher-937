@@ -32,7 +32,7 @@ Reach me at Social Medias: <h3 align="left">Connect with me:</h3>
 
 
 - <h3 align="left">📈 My GitHub stats:</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-937&show_icons=true&theme=tokyonight)
 
 
 Ask me anything. I'm happy to help
